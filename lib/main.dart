@@ -15,6 +15,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  //start the applcation
   @override
   Widget build(BuildContext context) {
     final ThemeData theme = ThemeData();
